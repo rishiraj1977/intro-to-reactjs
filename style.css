@@ -1,0 +1,46 @@
+h1{
+    color:red
+    
+}
+*{
+    border:initial
+   
+}
+h2{
+    color:red
+}
+
+body{
+    background-color:black;
+}
+.header{
+    background-color:black;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border: 9.5px solid lightgreen;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+   
+        
+}
+.grid{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    
+
+
+    
+ }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    text-align: center;
+    width: 30%;
+    
+  }
